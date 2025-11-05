@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="S2.xsl"?>
 <forecast queryTime="13/10/2025 4:30PM" queryLocation="Singapore">
   <weather yyyymmdd="20250530">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>5</month>
     <date>30</date>
     <dayOfWeek>Fri</dayOfWeek> 
@@ -11,7 +12,7 @@
     <lowest>29</lowest>
   </weather>
   <weather yyyymmdd="20250615">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>6</month>
     <date>15</date>
     <dayOfWeek>Sun</dayOfWeek> 
@@ -21,7 +22,7 @@
     <lowest>26</lowest>
   </weather>
   <weather yyyymmdd="20251006">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>10</month>
     <date>6</date>
     <dayOfWeek>Mon</dayOfWeek> 
@@ -31,7 +32,7 @@
     <lowest>30</lowest>
   </weather>
   <weather yyyymmdd="20250709">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>7</month>
     <date>9</date>
     <dayOfWeek>Wed</dayOfWeek> 
@@ -41,7 +42,7 @@
     <lowest>30</lowest>
   </weather>
   <weather yyyymmdd="20250410">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>4</month>
     <date>10</date>
     <dayOfWeek>Thur</dayOfWeek> 
@@ -51,7 +52,7 @@
     <lowest>31</lowest>
   </weather>
   <weather yyyymmdd="20250608">
-    <year>2025</year>	
+    <year>2025</year>  
     <month>6</month>
     <date>8</date>
     <dayOfWeek>Sun</dayOfWeek> 
